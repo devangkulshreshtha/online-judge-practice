@@ -1,1 +1,1 @@
-# online-judge-practice
+# online-judge-practice-contest
